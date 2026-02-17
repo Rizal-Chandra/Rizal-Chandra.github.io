@@ -1,0 +1,15 @@
+/* css styles */
+
+
+h1 {
+  font-weight: 700;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.navbar {
+  font-weight: 500;
+}
