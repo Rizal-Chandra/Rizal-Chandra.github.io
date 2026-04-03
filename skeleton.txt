@@ -1,0 +1,189 @@
+Current project outline (from where we left off)
+1) Hero Section (Done / mostly done)
+
+This is your landing splash screen.
+Style vibe: anime HUD + game profile card 🎮
+
+Includes:
+Name / Title
+Example: Rizal Chandra
+Inventory Analyst / Data & Operations Analyst
+Short tagline
+A concise “who I am” line
+Floating hero image / avatar
+slightly animated / floating effect
+Status panel (glass UI)
+“player stats” style
+Example:
+Role
+Experience
+Tools
+Focus
+CTA buttons
+View Projects
+Contact
+Download CV (optional)
+Background effects
+gradient
+soft glow
+subtle particles / scanline / grid if wanted
+2) Analyst Profile Section (Next section we planned)
+
+This is where the CV shifts from “cool landing page” into “professional identity with style”.
+
+Purpose:
+
+A more polished About Me section, but framed like a character profile / analyst dossier.
+
+Likely structure:
+Section title
+“Analyst Profile”
+or “Player Overview”
+or “System Log // Analyst Overview”
+Short intro paragraph
+who you are
+what you specialize in
+Core strengths / specialties
+Inventory optimization
+Data analysis
+Reporting automation
+Stock movement / replenishment logic
+Process improvement
+Work style traits
+Analytical
+Detail-oriented
+Cross-functional
+Problem-solving
+Optional “profile card” UI
+Level / Class / Main Skills style
+
+This section should feel more credible and recruiter-friendly, while still keeping the theme.
+
+3) Skills / Tech Stack Section
+
+This is likely after Analyst Profile.
+
+Possible style:
+
+A game skill tree / stat board instead of a boring list.
+
+Could include:
+Data tools
+Excel
+Power Query
+SQL (if applicable)
+R
+Quarto
+Power BI (if you want)
+Analysis skills
+Inventory analysis
+Demand / stock monitoring
+Reporting automation
+Data cleaning
+KPI dashboarding
+Visualization / UI
+Quarto
+HTML/CSS tweaks
+maybe GitHub Pages later
+UI ideas:
+Skill bars
+Badge chips
+Radar chart (optional, but risky if overdone)
+“Unlocked abilities” cards
+4) Experience Timeline
+
+This is your work history, but stylized.
+
+Format ideas:
+Quest log
+Mission history
+Career timeline
+Operations record
+Each experience block:
+Company / role
+Period
+Key responsibilities
+Key wins / impact bullets
+Optional expandable details
+
+Best if this section stays cleaner and more professional than the hero.
+
+5) Projects / Case Studies
+
+This will be one of the strongest sections for you, especially because your work naturally fits process + analysis + automation.
+
+Great project examples for you:
+Inventory monitoring dashboard
+Refill / replenishment logic project
+Mutasi / stock transfer control tracker
+Reporting automation with Power Query / R
+Store stock visibility improvement
+KPI or anomaly detection mini system
+Recommended card format:
+Project title
+Problem
+What you built
+Tools used
+Impact / outcome
+Optional:
+screenshot
+“view details” modal / expand
+
+This section can really carry the CV. Recruiters love proof, not just adjectives.
+
+6) Achievements / Impact Metrics
+
+A short high-impact section.
+
+Example:
+Reduced reporting time by X%
+Improved stock visibility across branches
+Automated repetitive weekly reports
+Increased speed of identifying low-stock / overstock issues
+Supported multi-branch inventory decisions
+UI idea:
+
+Mini stat cards:
+
++XX% efficiency
+XX branches monitored
+X hrs/week saved
+7) Education / Certifications
+
+Keep this lighter unless you have strong certs.
+
+Could include:
+Degree / major
+Relevant courses
+Certifications
+Short “learning path” badges
+8) Contact / Final CTA
+
+Final screen = elegant “mission complete” ending.
+
+Could include:
+Email
+LinkedIn
+GitHub (if you have)
+Download PDF CV
+Short closing line
+
+Possible style:
+
+“Open for new quests”
+“Available for analyst roles”
+“System ready for deployment” 😎
+Recommended final structure (clean version)
+
+If I were locking the structure now, I’d suggest this:
+
+Hero / Landing
+Analyst Profile
+Core Skills / Tech Stack
+Experience Timeline
+Featured Projects / Case Studies
+Achievements / Impact
+Education & Certifications
+Contact / CTA
+
+That’s a very strong recruiter-friendly flow.

@@ -1,11 +1,16 @@
-# ---
-title: "rizal-portfolio"
+---
+title: "Rizal Chandra | Interactive CV"
+format:
+ html:
+  theme: none
+  css: styles.css
+  toc: false
+  smooth-scroll: true
+  embed-resources: true
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{=html}
+{{< include sections/hero.html >}}
+{{< include sections/profiles.html >}}
 ```
+
